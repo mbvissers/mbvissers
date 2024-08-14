@@ -1,4 +1,4 @@
-👋 Hey, I’m @mbvissers, a Dutch student and web developer interested in everything modern!
+👋 Hey, I’m @mbvissers, a Dutch Full Stack Developer interested in everything modern!
 
 ## Interests
 I'm a web developer by trade, but I write articles about all sorts of tech in my own time. 
