@@ -1,6 +1,6 @@
 👋 Hey, I’m @mbvissers, a Full Stack Developer interested in everything cutting-edge!
 
-## Interests
+## About me
 I'm a web developer by trade, but I write articles about all sorts of tech in my own time. 
 
 - 🌍 Based in Rotterdam, The Netherlands.
